@@ -1,0 +1,236 @@
+Indicator Name:
+
+Adolescent fertility rate (births per 1,000 women ages 15-19)
+Adults (ages 15+) and children (0-14 years) living with HIV
+Adults (ages 15+) and children (ages 0-14) newly infected with HIV
+Adults (ages 15+) living with HIV
+Adults (ages 15-49) newly infected with HIV
+Age dependency ratio (% of working-age population)
+Age dependency ratio, old
+Age dependency ratio, young
+AIDS estimated deaths (UNAIDS estimates)
+Antiretroviral therapy coverage (% of people living with HIV)
+Antiretroviral therapy coverage for PMTCT (% of pregnant women living with HIV)
+Birth rate, crude (per 1,000 people)
+Births attended by skilled health staff (% of total)
+Capital health expenditure (% of GDP)
+Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)
+Cause of death, by non-communicable diseases (% of total)
+Children (0-14) living with HIV
+Children (ages 0-14) newly infected with HIV
+Children orphaned by HIV/AIDS
+Community health workers (per 1,000 people)
+Condom use at last high-risk sex, adult female (% ages 15-49)
+Condom use at last high-risk sex, adult male (% ages 15-49)
+Condom use, population ages 15-24, female (% of females ages 15-24)
+Condom use, population ages 15-24, male (% of males ages 15-24)
+Contraceptive prevalence, any method (% of all women ages 15-49)
+Contraceptive prevalence, any method (% of married women ages 15-49)
+Contraceptive prevalence, any method (% of sexually active unmarried women ages 15-49)
+Contraceptive prevalence, any modern method (% of all women ages 15-49)
+Contraceptive prevalence, any modern method (% of married women ages 15-49)
+Contraceptive prevalence, any modern method (% of sexually active unmarried women ages 15-49)
+Current health expenditure (% of GDP)
+Current health expenditure per capita (current US$)
+Current health expenditure per capita, PPP (current international $)
+Death rate, crude (per 1,000 people)
+Demand for family planning satisfied by any methods (% of married women with demand for family planning)
+Demand for family planning satisfied by modern methods (% of married women with demand for family planning)
+Domestic general government health expenditure (% of current health expenditure)
+Domestic general government health expenditure (% of GDP)
+Domestic general government health expenditure (% of general government expenditure)
+Domestic general government health expenditure per capita (current US$)
+Domestic general government health expenditure per capita, PPP (current international $)
+Domestic private health expenditure (% of current health expenditure)
+Domestic private health expenditure per capita (current US$)
+Domestic private health expenditure per capita, PPP  (current international $)
+External health expenditure (% of current health expenditure)
+External health expenditure channeled through government (% of external health expenditure)
+External health expenditure per capita (current US$)
+External health expenditure per capita, PPP (current international $)
+Female headed households (% of households with a female head)
+Fertility rate, total (births per woman)
+GNI per capita, Atlas method (current US$)
+Hospital beds (per 1,000 people)
+Incidence of HIV, ages 15-24 (per 1,000 uninfected population ages 15-24)
+Incidence of HIV, ages 15-49 (per 1,000 uninfected population ages 15-49)
+Incidence of HIV, ages 50+ (per 1,000 uninfected population ages 50+)
+Incidence of HIV, all (per 1,000 uninfected population)
+Life expectancy at birth, female (years)
+Life expectancy at birth, male (years)
+Life expectancy at birth, total (years)
+Literacy rate, adult female (% of females ages 15 and above)
+Literacy rate, adult male (% of males ages 15 and above)
+Literacy rate, adult total (% of people ages 15 and above)
+Literacy rate, youth male (% of males ages 15-24)
+Literacy rate, youth total (% of people ages 15-24)
+Mortality rate, adult, female (per 1,000 female adults)
+Mortality rate, adult, male (per 1,000 male adults)
+Number of deaths ages 10-14 years
+Number of deaths ages 10-14 years, female
+Number of deaths ages 10-14 years, male
+Number of deaths ages 10-19 years
+Number of deaths ages 10-19 years, female
+Number of deaths ages 10-19 years, male
+Number of deaths ages 15-19 years
+Number of deaths ages 15-19 years, female
+Number of deaths ages 15-19 years, male
+Number of deaths ages 20-24 years
+Number of deaths ages 20-24 years, female
+Number of deaths ages 20-24 years, male
+Number of deaths ages 5-9 years
+Number of deaths ages 5-9 years, female
+Number of deaths ages 5-9 years, male
+Number of surgical procedures (per 100,000 population)
+Out-of-pocket expenditure (% of current health expenditure)
+Out-of-pocket expenditure per capita (current US$)
+Out-of-pocket expenditure per capita, PPP (current international $)
+People practicing open defecation (% of population)
+People practicing open defecation, rural (% of rural population)
+People practicing open defecation, urban (% of urban population)
+People with basic handwashing facilities including soap and water (% of population)
+People with basic handwashing facilities including soap and water, rural (% of rural population)
+People with basic handwashing facilities including soap and water, urban (% of urban population)
+Physicians (per 1,000 people)
+Population ages 00-04, female
+Population ages 00-04, female (% of female population)
+Population ages 00-04, male
+Population ages 00-04, male (% of male population)
+Population ages 00-14, total
+Population ages 0-14 (% of total population)
+Population ages 0-14, female
+Population ages 0-14, female (% of female population)
+Population ages 0-14, male
+Population ages 0-14, male (% of male population)
+Population ages 05-09, female
+Population ages 05-09, female (% of female population)
+Population ages 05-09, male
+Population ages 05-09, male (% of male population)
+Population ages 10-14, female
+Population ages 10-14, female (% of female population)
+Population ages 10-14, male
+Population ages 10-14, male (% of male population)
+Population ages 15-19, female
+Population ages 15-19, female (% of female population)
+Population ages 15-19, male
+Population ages 15-19, male (% of male population)
+Population ages 15-64 (% of total population)
+Population ages 15-64, female
+Population ages 15-64, female (% of female population)
+Population ages 15-64, male
+Population ages 15-64, male (% of male population)
+Population ages 15-64, total
+Population ages 20-24, female
+Population ages 20-24, female (% of female population)
+Population ages 20-24, male
+Population ages 20-24, male (% of male population)
+Population ages 25-29, female
+Population ages 25-29, female (% of female population)
+Population ages 25-29, male
+Population ages 25-29, male (% of male population)
+Population ages 30-34, female
+Population ages 30-34, female (% of female population)
+Population ages 30-34, male
+Population ages 30-34, male (% of male population)
+Population ages 35-39, female
+Population ages 35-39, female (% of female population)
+Population ages 35-39, male
+Population ages 35-39, male (% of male population)
+Population ages 40-44, female
+Population ages 40-44, female (% of female population)
+Population ages 40-44, male
+Population ages 40-44, male (% of male population)
+Population ages 45-49, female
+Population ages 45-49, female (% of female population)
+Population ages 45-49, male
+Population ages 45-49, male (% of male population)
+Population ages 50-54, female
+Population ages 50-54, female (% of female population)
+Population ages 50-54, male
+Population ages 50-54, male (% of male population)
+Population ages 55-59, female
+Population ages 55-59, female (% of female population)
+Population ages 55-59, male
+Population ages 55-59, male (% of male population)
+Population ages 60-64, female
+Population ages 60-64, female (% of female population)
+Population ages 60-64, male
+Population ages 60-64, male (% of male population)
+Population ages 65 and above (% of total population)
+Population ages 65 and above, female
+Population ages 65 and above, female (% of female population)
+Population ages 65 and above, male
+Population ages 65 and above, male (% of male population)
+Population ages 65 and above, total
+Population ages 65-69, female
+Population ages 65-69, female (% of female population)
+Population ages 65-69, male
+Population ages 65-69, male (% of male population)
+Population ages 70-74, female
+Population ages 70-74, female (% of female population)
+Population ages 70-74, male
+Population ages 70-74, male (% of male population)
+Population ages 75-79, female
+Population ages 75-79, female (% of female population)
+Population ages 75-79, male
+Population ages 75-79, male (% of male population)
+Population ages 80 and above, female
+Population ages 80 and above, male
+Population ages 80 and above, male (% of male population)
+Population ages 80 and older, female (% of female population)
+Population growth (annual %)
+Population, female
+Population, female (% of total population)
+Population, male
+Population, male (% of total population)
+Population, total
+Poverty headcount ratio at national poverty line (% of population)
+Prevalence of HIV, female (% ages 15-24)
+Prevalence of HIV, male (% ages 15-24)
+Prevalence of HIV, total (% of population ages 15-49)
+Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%)
+Proportion of population spending more than 25% of household consumption or income on out-of-pocket health care expenditure (%)
+Public spending on education, total (% of GDP)
+Rural population
+Rural population (% of total population)
+Rural population growth (annual %)
+Rural poverty headcount ratio at national poverty lines (% of rural population)
+School enrollment, primary (% gross)
+School enrollment, primary (% net)
+School enrollment, primary, female (% gross)
+School enrollment, primary, female (% net)
+School enrollment, primary, male (% gross)
+School enrollment, primary, male (% net)
+School enrollment, secondary (% gross)
+School enrollment, secondary (% net)
+School enrollment, secondary, female (% gross)
+School enrollment, secondary, female (% net)
+School enrollment, secondary, male (% gross)
+School enrollment, secondary, male (% net)
+School enrollment, tertiary (% gross)
+School enrollment, tertiary, female (% gross)
+Sex ratio at birth (male births per female births)
+Specialist surgical workforce (per 100,000 population)
+Suicide mortality rate (per 100,000 population)
+Suicide mortality rate, female (per 100,000 female population)
+Suicide mortality rate, male (per 100,000 male population)
+Survival to age 65, female (% of cohort)
+Survival to age 65, male (% of cohort)
+Teenage mothers (% of women ages 15-19 who have had children or are currently pregnant)
+Total alcohol consumption per capita (liters of pure alcohol, projected estimates, 15+ years of age)
+Total alcohol consumption per capita, female (liters of pure alcohol, projected estimates, female 15+ years of age)
+Total alcohol consumption per capita, male (liters of pure alcohol, projected estimates, male 15+ years of age)
+UHC service coverage index
+Unemployment, female (% of female labor force)
+Unemployment, male (% of male labor force)
+Unemployment, total (% of total labor force)
+Unmet need for contraception (% of married women ages 15-49)
+Urban population
+Urban population (% of total population)
+Urban population growth (annual %)
+Urban poverty headcount ratio at national poverty lines (% of urban population)
+Wanted fertility rate (births per woman)
+Women who were first married by age 15 (% of women ages 20-24)
+Women who were first married by age 18 (% of women ages 20-24)
+Women's share of population ages 15+ living with HIV (%)
+Young people (ages 15-24) newly infected with HIV
