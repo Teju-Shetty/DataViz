@@ -85,16 +85,19 @@ elif options == "Objective 3":
     indicator1 = "Adults (ages 15+) and children (0-14 years) living with HIV"
     indicator2 = "Adults (ages 15+) and children (ages 0-14) newly infected with HIV"
     indicator3 = "Antiretroviral therapy coverage (% of people living with HIV)"
-
+    indicator4 = "AIDS estimated deaths (UNAIDS estimates)" 
+    
     filtered_data1 = country_data[country_data["Indicator.Name"] == indicator1]
     filtered_data2 = country_data[country_data["Indicator.Name"] == indicator2]
     filtered_data3 = country_data[country_data["Indicator.Name"] == indicator3]
+    filtered_data4 = country_data[country_data["Indicator.Name"] == indicator4]
 
     # Extract the relevant columns for x and y values
     years = data.columns[4:]  # Assuming the years start from the 5th column
     hiv_counts1 = filtered_data1.iloc[:, 4:].astype(float)  # Assuming the counts start from the 5th column
     hiv_counts2 = filtered_data2.iloc[:, 4:].astype(float)  # Assuming the counts start from the 5th column
     coverage_percentage = filtered_data3.iloc[:, 4:].astype(float)
+    estimated_deaths = filtered_data4.iloc[:, 4:].astype(float)
 
     # Plot the bar chart
     fig, ax = plt.subplots(figsize=(20, 10))  # Increase the figure size here
@@ -111,6 +114,9 @@ elif options == "Objective 3":
 
     # Plot the area chart
     ax.fill_between(years, hiv_counts2.values.flatten(), color="blue", alpha=0.3, label=indicator2)
+
+    # Plot the dotted line for the new indicator
+    ax.plot(years, estimated_deaths.values.flatten(), linestyle='--', color='black', label=indicator4, linewidth=2)
 
     # Add labels and title
     ax.set_xlabel("Year", fontsize=14)
